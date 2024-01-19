@@ -41,3 +41,5 @@ https://webui.graviti.com/?&__theme=dark
 https://www.popai.pro/
 
 https://www.deviantart.com/ewdlop
+
+https://myaidrive.com/#/home
