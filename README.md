@@ -1,4 +1,4 @@
-# AITools
+# AI-Tools
 
 https://chat.openai.com/
 
