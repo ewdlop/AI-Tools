@@ -55,3 +55,5 @@ https://aicomicfactory.com/playground
 https://www.wix.com/?referralAdditionalInfo=Dashboard
 
 https://www.stack-ai.com/?gclid=Cj0KCQiAwbitBhDIARIsABfFYIJJqQlI6e4vT48jIKVIPyyqwjrGLJ5zlw35LnUSmwoOhdeNI3556p0aAkLIEALw_wcB
+
+https://www.junia.ai/dashboard#
