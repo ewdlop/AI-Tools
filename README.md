@@ -59,7 +59,9 @@ https://www.stack-ai.com/?gclid=Cj0KCQiAwbitBhDIARIsABfFYIJJqQlI6e4vT48jIKVIPyyq
 
 https://tech.udn.com/tech/cate/123155
 
-https://www.junia.ai/dashboard#
+https://www.junia.ai/dashboard
+
+https://www.blackbox.ai/chat/expert-javascript
 
 ===============================================================
 https://www.artguru.ai/tw/
