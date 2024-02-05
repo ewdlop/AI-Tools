@@ -63,7 +63,10 @@ https://www.junia.ai/dashboard
 
 https://www.blackbox.ai/chat/expert-javascript
 
+https://www.classace.io/tools
+
 ===============================================================
 https://www.artguru.ai/tw/
+
 
 https://fadr.com/remix
