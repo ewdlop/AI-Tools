@@ -46,7 +46,7 @@ Here's a categorized organization of the links provided:
 - [BlackBox AI - Expert JavaScript](https://www.blackbox.ai/chat/expert-javascript)
 - [ClassAce Tools](https://www.classace.io/tools)
 - [Bolt Code Generator](https://bolt.new/)
-- [Vercel]https://v0.dev/
+- [Vercel](https://v0.dev/)
 
 ## Tech News and Updates
 - [UDN Tech](https://tech.udn.com/tech/cate/123155)
