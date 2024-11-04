@@ -47,6 +47,8 @@ Here's a categorized organization of the links provided:
 - [ClassAce Tools](https://www.classace.io/tools)
 - [Bolt Code Generator](https://bolt.new/)
 - [Vercel](https://v0.dev/)
+- [Replit](https://replit.com/)
+- 
 
 ## Tech News and Updates
 - [UDN Tech](https://tech.udn.com/tech/cate/123155)
