@@ -53,6 +53,12 @@ Here's a categorized organization of the links provided:
 
 https://play.aidungeon.com/
 
+## AI-Models
+
+- [ModelScope](https://www.modelscope.cn/home)
+
+- [HuggingFace](https://huggingface.co/)
+
 ## Game-Gen
 
 https://play.rosebud.ai/
