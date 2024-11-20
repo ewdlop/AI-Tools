@@ -63,6 +63,8 @@ https://play.aidungeon.com/
 
 https://play.rosebud.ai/
 
+## AI-COmic
+ComicsMaker.ai
 
 ## Tech News and Updates
 - [UDN Tech](https://tech.udn.com/tech/cate/123155)
