@@ -101,7 +101,7 @@ Here's a categorized organization of the links provided:
 
 ## AI-Dungeon
 
-https://play.aidungeon.com/
+- [https://play.aidungeon.com/](aidungeon)
 
 ## AI-Models
 
